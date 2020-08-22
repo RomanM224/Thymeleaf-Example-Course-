@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleaf-cource
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: roman
+Implementation-Vendor-Id: com.thymeleaf.cource
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/thymeleaf-cource
+Created-By: Maven Integration for Eclipse
+
